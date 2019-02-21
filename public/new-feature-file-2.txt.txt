@@ -1,1 +1,2 @@
 The word git first appeared in print in 1946, but is undoubtedly older. It is originally an alteration of the word get, dating back to the 14th century.A shortening of beget, get insinuates that the recipient is someone's misbegotten offspring and therefore a bastard.[7] In parts of northern England, Northern Ireland and Scotland get is still used in preference to git; the get form is used in the Beatles song "I'm So Tired". 
+Sunt un programator foarte smecher si lucrez la feature 2.
